@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <EditText
+            android:id="@+id/inputText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:hint="Terserah !!!"
+            />
+
+
+        <TextView
+            android:id="@+id/textBase"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jancok !"
+            />
+
+        <Button
+            android:id="@+id/btnclick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="button"
+            />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="391dp"
+            android:layout_height="384dp"
+            android:src="@drawable/pocong2" />
+    </LinearLayout>
+
+</layout>

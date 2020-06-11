@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "83169711708",
+    "firebase_url": "https://redline-dae44.firebaseio.com",
+    "project_id": "redline-dae44",
+    "storage_bucket": "redline-dae44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83169711708:android:a7f7d481bb7b40106ab899",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83169711708-bcohi5cgm13m40dqqlqrhq2g218k7ksb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCisNV71eNFsc6s8I0kg1IMwOATO0sBcck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83169711708-bcohi5cgm13m40dqqlqrhq2g218k7ksb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
